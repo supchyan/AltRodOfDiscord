@@ -1,0 +1,15 @@
+Items: {
+	EnchancedRodOfDiscord: {
+		Tooltip:
+			'''
+			Teleports you to the position of the mouse by a keybind press
+			Similar to [c/96ff0a:Rod Of Discord] [i:RodofDiscord]
+			Does not interrupt selected item usage
+			Causes the chaos state
+			`Enchanced by anonymus sorcerer`
+			'''
+		DisplayName: Enchanced Rod Of Discord
+	}
+}
+
+Keybinds.UseKey.DisplayName: Use Key

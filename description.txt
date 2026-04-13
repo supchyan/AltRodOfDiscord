@@ -1,0 +1,2 @@
+The same as [c/96ff0a:Rod Of Discord] [i:RodofDiscord], but works under a keybind press.
+Doesn't interrupt selected item usage.

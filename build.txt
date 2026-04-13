@@ -1,0 +1,3 @@
+displayName = Alt Rod Of Discord
+author = supchyan
+version = 1.1

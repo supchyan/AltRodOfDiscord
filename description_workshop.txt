@@ -1,0 +1,3 @@
+Mod adds Alternative Rod Of Discord, which works under customizable keybind press.
+Doesn't interrupt selected item usage.
+Craft: Rod Of Discord + Nebula Fragment x10 (Ancient Manipulator)
